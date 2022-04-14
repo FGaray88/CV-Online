@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: 'Roboto Condensed', sans-serif; }
+
+h1 {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 60px; }
+
+h2 {
+  font-variant: small-caps;
+  font-size: 20px;
+  font-weight: 700; }
+
+h3 {
+  font-size: 15px;
+  font-weight: 600; }
+
+h4 {
+  font-size: 14px; }
+
+h5 {
+  font-size: 14px; }
+
+ul li {
+  font-size: 14px; }
+
+section ul li {
+  font-size: 18px; }
+
+.Perfil_Parrafo {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 14px; }
+
+a {
+  text-decoration: none; }
+
+.divgeneral {
+  border-left: 1px ridge black;
+  border-right: 1px ridge black; }
+
+aside {
+  background-color: #e6e6ef; }
+
+main {
+  background-color: #c6c8ca; }
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.img {
+  width: 20px;
+  margin: 5px; }
+
+.cvperfil {
+  width: 250px;
+  border-radius: 200px; }
+
+section ul {
+  display: flex;
+  flex-direction: column; }
+  section ul li {
+    list-style: none; }
+
+.ul_ex {
+  margin-left: -1.7rem; }
+
+h3 {
+  padding-top: 5px; }
+
+h4 {
+  display: flex;
+  justify-content: space-between;
+  height: 20px;
+  margin-top: -5px;
+  padding-left: 10px; }
+
+h5 {
+  padding-left: 32px;
+  margin-top: -5px; }
+
+.perfil {
+  padding: 5px 5px 1px 5px;
+  background-color: #fff4e8; }
+
+.estudios {
+  padding: 5px 5px 1px 5px;
+  background-color: #fce5ea; }
+
+.experiencia {
+  padding: 5px 5px 15px 5px;
+  background-color: #e2faee; }
+
+.Perfil_Parrafo {
+  width: 90%;
+  margin-left: 4%; }
